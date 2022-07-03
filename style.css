@@ -42,7 +42,7 @@ et 80 a gauche
   .right{
     height: 500px;
     width: 150px;
-    background: red;
+    background: yellow;
     /*float : right; /*div rouge a droite*/
    /* position: relative; /*pour utiliser les prop top left */
    /* top:100px;
