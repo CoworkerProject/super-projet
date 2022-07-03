@@ -9,7 +9,7 @@ p{
     font-family: Arial;
     /*serif sans-serif cursive integrees au css*/
     font-weight: bold ; /*en gras*/
-    text-align: center;
+    text-align:right;
 }
 /*commentaire*/
 /* div div p //le paragraphe qui se trouve dans 2 div { ...}
